@@ -1,0 +1,29 @@
+.search-bar {
+    display: inline-flex;
+    border-radius: 10px;
+    border: 1px solid grey;
+    overflow: hidden;
+    margin-top: 20px;
+    height: 36px;
+    min-width: 200px;
+    width:300px;
+
+
+}
+
+.search-input {
+    border: 0;
+    outline:none;
+    width:80%;
+    
+}
+
+.search-button {
+    color: white;
+    background-color: #C84B31;
+    border: 0;
+    padding: 0.8rem;
+    border-radius: 0psx;
+    width: 20%;
+
+}
